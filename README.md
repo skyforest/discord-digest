@@ -83,7 +83,7 @@ Coming soon...
 Create a virtual environment ( we like [pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) :) )
 * pyenv
   ```sh
-  pyenv virtualenv 3.11.0 discord-digest-env
+  pyenv virtualenv 3.10.6 discord-digest-env
   ```
 
 ### Installation
@@ -181,4 +181,4 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/codyantunez
-[Python]: https://img.shields.io/badge/python-v3.11-blue
+[Python]: https://img.shields.io/badge/python-v3.10.6-blue
